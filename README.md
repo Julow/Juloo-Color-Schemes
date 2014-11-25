@@ -1,3 +1,6 @@
+This repo will die.<br />
+Please use [Juloo-Sublime-Package](https://github.com/Julow/Juloo-Sublime-Package).
+
 # Juloo Color Schemes
 
 My color schemes for sublime text.
